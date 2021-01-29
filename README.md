@@ -13,22 +13,49 @@ Since 2013, the Citi Bike Program has implemented a robust infrastructure for co
 
 However, while the data has been regularly updated, the team has yet to implement a dashboard or sophisticated reporting process. City officials have a number of questions on the program, so your first task on the job is to build a set of data reports to provide the answers.
 
-![Bar Chart](https://github.com/parastoorazavi/D3-challenge/blob/main/Images/4-scatter.jpg)
+![Bar Chart](https://github.com/parastoorazavi/Tableau-challenge/blob/main/citi-bike-station-bikes.jpg)
 
 
 ## 💻 Getting Started <a name = "getting_started"></a>
 
-**D3 Dabbler:** <br>
+**Task:** <br>
 
-You need to create a scatter plot between two of the data variables such as Healthcare vs. Poverty or Smokers vs. Age.
+Your task in this assignment is to aggregate the data found in the Citi Bike Trip History Logs and find two unexpected phenomena.
 
-Using the D3 techniques we taught you in class, create a scatter plot that represents each state with circle elements. You'll code this graphic in the app.js file of your homework directory—make sure you pull in the data from data.csv by using the d3.csv function. Your scatter plot should ultimately appear like the image at the top of this section.
+Design 2-5 visualizations for each discovered phenomena (4-10 total). You may work with a timespan of your choosing. Optionally, you may merge multiple datasets from different periods.
 
-•	Include state abbreviations in the circles. 
+The following are some questions you may wish to tackle. Do not limit yourself to these questions; they are suggestions for a starting point. Be creative!
 
-•	Create and situate your axes and labels to the left and bottom of the chart.
+•	How many trips have been recorded total during the chosen period?
 
-•	Note: You'll need to use python -m http.server to run the visualization. This will host the page at localhost:8000 in your web browser.
+•	By what percentage has total ridership grown?
+
+•	How has the proportion of short-term customers and annual subscribers changed?
+
+•	What are the peak hours in which bikes are used during summer months?
+
+•	What are the peak hours in which bikes are used during winter months?
+
+•	Today, what are the top 10 stations in the city for starting a journey? (Based on data, why do you hypothesize these are the top locations?)
+
+•	Today, what are the top 10 stations in the city for ending a journey? (Based on data, why?)
+
+•	Today, what are the bottom 10 stations in the city for starting a journey? (Based on data, why?)
+
+•	Today, what are the bottom 10 stations in the city for ending a journey (Based on data, why?)
+
+•	Today, what is the gender breakdown of active participants (Male v. Female)?
+
+•	How effective has gender outreach been in increasing female ridership over the timespan?
+
+•	How does the average trip duration change by age?
+
+•	What is the average distance in miles that a bike is ridden?
+
+•	Which bikes (by ID) are most likely due for repair or inspection in the timespan?
+
+•	How variable is the utilization by bike ID?
+
 
 
 ## ⏱Bonus Part -	Impress the Boss. <a name = "bonus_part"></a>
