@@ -87,11 +87,11 @@ Remember, the people reading your analysis will NOT be data analysts. Your audie
 
 ## ⏱Submission. <a name = "bonus_part"></a>
 
-•	A link to your Tableau Public workbook that includes:
-    * 4-10 Total "Phenomenon" Visualizations
-    * 2 Dashboards
-    * 1 City Official Map
-    * 1 Story
+•	A link to your Tableau Public workbook that includes: <br>
+    * 4-10 Total "Phenomenon" Visualizations <br>
+    * 2 Dashboards <br>
+    * 1 City Official Map <br>
+    * 1 Story <br>
 
 •	A text or markdown file with your analysis on the phenomenons you uncovered from the data.
 
