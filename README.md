@@ -73,24 +73,43 @@ A static map that plots all bike stations with a visual indication of the most p
 
 •	The map you choose should also be accompanied by a write-up unveiling any trends that were noticed during your analysis.
 
+**Finally, create your final presentation:**
+
+•	Create a Tableau story that brings together the visualizations, requested maps, and dashboards.
+
+•	This is what will be presented to the officials, so be sure to make it professional, logical, and visually appealing.
+
+
+## ⏱Considerations. <a name = "bonus_part"></a>
+
+Remember, the people reading your analysis will NOT be data analysts. Your audience will be city officials, public administrators, and heads of New York City departments. Your data and analysis needs to be presented in a way that is focused, concise, easy-to-understand, and visually compelling. Your visualizations should be colorful enough to be included in press releases, and your analysis should be thoughtful enough for dictating programmatic changes.
+
+
+## ⏱Submission. <a name = "bonus_part"></a>
+
+•	A link to your Tableau Public workbook that includes:
+    * 4-10 Total "Phenomenon" Visualizations
+    * 2 Dashboards
+    * 1 City Official Map
+    * 1 Story
+
+•	A text or markdown file with your analysis on the phenomenons you uncovered from the data.
 
 
 
-## ⏱Bonus Part -	Impress the Boss. <a name = "bonus_part"></a>
+**Sharing Your Work:** <br>
 
-Why make a static graphic when D3 lets you interact with your data?
+In order to share your work, we are asking that you will save your workbook as a .twbx file so that your TA's can grade them.
 
-![Bar Chart](https://github.com/parastoorazavi/D3-challenge/blob/main/Images/7-animated-scatter.gif)
+To save your workbook as a .twbx file, you will just need to select "Save As..." from the "File" dropdown. Then, select the .twbx option.
 
-**More Data, More Dynamics:** <br>
-You're going to include more demographics and more risk factors. Place additional labels in your scatter plot and give them click events so that your users can decide which data to display. Animate the transitions for your circles' locations as well as the range of your axes. Do this for two risk factors for each axis. Or, for an extreme challenge, create three for each axis.
+**Assessment:** <br>
 
-•	Hint: Try binding all of the CSV data to your circles. This will let you easily determine their x or y values when you click the labels. 
+Your final product will be assessed on the following metrics:
 
-**Incorporate d3-tip:** <br>
+•	Analytic Rigor
 
-While the ticks on the axes allow us to infer approximate values for each circle, it's impossible to determine the true value without adding another layer of data. Enter tooltips: developers can implement these in their D3 graphics to reveal a specific element's data when the user hovers their cursor over the element. Add tooltips to your circles and display each tooltip with the data that the user has selected. Use the d3-tip.js plugin developed by Justin Palmer—we've already included this plugin in your assignment directory.
+•	Readability
 
-![Bar Chart](https://github.com/parastoorazavi/D3-challenge/blob/main/Images/8-tooltip.gif)
+•	Visual Attraction
 
-•	Check out David Gotz's example to see how you should implement tooltips with d3-tip.
