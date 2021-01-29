@@ -4,7 +4,8 @@
 
 - [About](#about)
 - [Getting Started](#getting_started)
-- [Bonus Part](#bonus_part)
+- [Considerations](#considerations)
+- [Submission](#submission)
 
 ## 🧐 About <a name = "about"></a>
 Congratulations on your new job! As the new lead analyst for the New York Citi Bike(https://en.wikipedia.org/wiki/Citi_Bike) Program, you are now responsible for overseeing the largest bike sharing program in the United States. In your new role, you will be expected to generate regular reports for city officials looking to publicize and improve the city program.
@@ -69,7 +70,7 @@ However, while the data has been regularly updated, the team has yet to implemen
 A static map that plots all bike stations with a visual indication of the most popular locations to start and end a journey with zip code data overlaid on top.
 
 • **Advanced:** 
-•	A dynamic map that shows how each station's popularity changes over time (by month and year). Again, with zip code data overlaid on the map.
+A dynamic map that shows how each station's popularity changes over time (by month and year). Again, with zip code data overlaid on the map.
 
 •	The map you choose should also be accompanied by a write-up unveiling any trends that were noticed during your analysis.
 
@@ -80,12 +81,12 @@ A static map that plots all bike stations with a visual indication of the most p
 •	This is what will be presented to the officials, so be sure to make it professional, logical, and visually appealing.
 
 
-## ⏱Considerations. <a name = "bonus_part"></a>
+## ⏱Considerations. <a name = "considerations"></a>
 
 Remember, the people reading your analysis will NOT be data analysts. Your audience will be city officials, public administrators, and heads of New York City departments. Your data and analysis needs to be presented in a way that is focused, concise, easy-to-understand, and visually compelling. Your visualizations should be colorful enough to be included in press releases, and your analysis should be thoughtful enough for dictating programmatic changes.
 
 
-## ⏱Submission. <a name = "bonus_part"></a>
+## ⏱Submission. <a name = "submission"></a>
 
 •	A link to your Tableau Public workbook that includes: <br>
     * 4-10 Total "Phenomenon" Visualizations <br>
